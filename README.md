@@ -12,7 +12,7 @@
 <a href="https://twitter.com/mitushaarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitushaarya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mitushaarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitushaarya" height="30" width="40" /></a>
 <a href="https://medium.com/@mitushaarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mitushaarya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucyrcqq87vcup05-nxosclsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCYRCQQ87VcUP05-nXosclSg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYRCQQ87VcUP05-nXosclSg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCYRCQQ87VcUP05-nXosclSg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
